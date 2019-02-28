@@ -1,2 +1,2 @@
 # Website-Test
-First website I created while learning HTML5/CSS and Javascript
+Wesbite created while learning HTML5/CSS/Javascript
